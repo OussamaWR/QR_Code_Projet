@@ -1,0 +1,20 @@
+body {
+    color: aliceblue;
+    background: #0b4957;
+    font-family: 'Poppins', sans-serif;
+}
+#preview {
+    padding: 10px 10px 10px 10px;
+    margin-top: 5px;
+    border: 3px solid rgba(255, 255, 255, 0.705);
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h4 {
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 900;
+}
